@@ -1,13 +1,11 @@
-# Hi there, I'm Filip! 👋
+# Hi there, I'm Filip!
 
-## 🎓 About Me
+## About Me
 - Computer Science Student at **HTL Wiener Neustadt**
-- Former intern at **Erste Digital** (FinTech) and **Kontron AG** (Industrial Tech)
-- Seeking **IT Consulting Internship** starting February 2027
 - Currently learning **Cloud Technologies** and **Advanced Software Architecture**
 - Based in **Vienna, Austria**
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -25,10 +23,15 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-## 🚀 Featured Projects
-*Coming soon - Building portfolio projects focused on IT Consulting and Data Analytics*
+## Featured Projects
+### Sales Analytics Dashboard
+Full-Stack Business Intelligence Application
+A comprehensive sales analytics dashboard processing 400K+ e-commerce transactions with data visualization.
 
-## 📫 Connect with Me
+[![View Project](https://img.shields.io/badge/-View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filip-kucharko/sales-analytics-dashboard)
+
+
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/filip-kucharko-9649b0285)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:filip.kucharko@[f.kucharko@gmail.com])
 
